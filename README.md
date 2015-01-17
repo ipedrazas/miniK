@@ -5,6 +5,8 @@ TL;DR: You do **not** have to learn this language, but your children might.
 
 My experiences teaching children to program have been a sweet and sour pill harder to swallow than expected. Children start with [Scratch](http://scratch.mit.edu)  and they love how quickly they can produce (noisy) programs (using loud colours) that do different things. From a game (always a winner) to a book or even a video.
 
+Go to this [link](http://snap.berkeley.edu/), look at how they decoupled the language you create your program with and the logic. That's the idea.
+
 Then you try to get serious and you can take the HTML road or the Python street. And they are good, very good, but there's something that I've noticed: programming language are based on English and guess what? not only English speaking children want to learn to program!
 
 Why do I have to learn English to write python? why do I have to use the English keywords instead of Spanish or French or Dutch? The CEO of codeclub told me once that children that want to learn to program must learn those keywords first.
